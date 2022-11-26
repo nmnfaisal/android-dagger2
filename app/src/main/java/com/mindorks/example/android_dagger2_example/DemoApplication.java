@@ -8,7 +8,7 @@ import com.mindorks.example.android_dagger2_example.di.component.ApplicationComp
 import com.mindorks.example.android_dagger2_example.di.component.DaggerApplicationComponent;
 import com.mindorks.example.android_dagger2_example.di.module.ApplicationModule;
 
-import javax.inject.Inject;
+import jagtvax.inject.Inject;
 
 
 
